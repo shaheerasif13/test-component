@@ -23,9 +23,9 @@ export default function Home() {
               <input
                 type="text"
                 placeholder="Your email"
-                className="text-black outline-none px-6 py-3.5 rounded-full w-full xl:w-2/3"
+                className="text-black outline-none px-6 py-3.5 rounded-full w-full sm:w-11/12 xl:w-2/3"
               />
-              <button className="bg-blue-500 text-white px-2 py-3.5 rounded-full w-full xl:w-1/3">
+              <button className="bg-blue-500 text-white px-2 py-3.5 rounded-full w-full sm:w-11/12 xl:w-1/3">
                 Subscribe
               </button>
             </div>
